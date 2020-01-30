@@ -1,0 +1,5 @@
+{
+  "prefix":"/",
+  "clientSecret":"yourClientSecret",
+  "token":"yourToken"
+}
